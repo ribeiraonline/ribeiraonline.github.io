@@ -16,8 +16,8 @@ tags:
     - post
     - post format
 image:
-    title: rdm.jpg
-    homepage: rdm.jpg
+    title: homepage_a_viagem.jpg
+    homepage: homepage_a_viagem.jpg
     # caption: Image by Antonio
     # caption_url: "http://www.aisleone.net/"
 author: mo
