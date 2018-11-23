@@ -47,7 +47,7 @@ permalink: "/roadmap/"
 * <s>Clean up color scheme and highlighting colors</s>
 * <s>Make theme translation ready</s>
 * [<s>Add draft-templates for new pages/posts</s>](https://github.com/Phlow/feeling-responsive/tree/gh-pages/_drafts)
-* [<s>Step-by-Step-Guide to customize *RibeiraOnline*</s>]({{ site.url }}{{ site.baseurl }}/getting-started/)
+* [<s>Step-by-Step-Guide to customize *RibeiraOnline*</s>]({{ site.url }}{{ site.baseurl }}/sobre/)
 * [<s>Video-Post-Format to feature videos in a huge way</s>]({{ site.url }}{{ site.baseurl }}/design/video/)
 * <s>Title and captions for images</s>
 * <s>SEO › Add metadescription to header.html and front matter</s>

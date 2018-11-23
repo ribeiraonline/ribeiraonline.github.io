@@ -7,11 +7,14 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>RibeiraOnline</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+# widget1:
+#   title: "A viagem começa agora... embarque connosco!"
+#   url: 'http://phlow.github.io/feeling-responsive/blog/'
+#   image: widget-1-302x182.jpg
+#   text: 'Bairrismo, atitude positiva, amor e orgulho por uma região.
+#           Bairrismo, ser fiel às nossas origens.
+#           Bairrismo, adaptar-se às mudanças, preservando o que é de nós.
+#           Bairrismo, o prazer que alguém tem no seu bairro ou na localidade onde mora.'
 # widget2:
 #   title: "Why use this theme?"
 #   url: 'http://phlow.github.io/feeling-responsive/info/'
@@ -26,16 +29,16 @@ widget1:
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
-# url: /getting-started/
+# url: /sobre/
 #
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -43,10 +46,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

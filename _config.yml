@@ -21,11 +21,11 @@ slogan: 'Ribeira da Mata Online'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+#author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ribeiraonline.github.io'
+url: 'https://www.ribeiraonline.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
